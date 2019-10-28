@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "flow-bin": "^0.110.1"
+    "flow-bin": "^0.110.1",
+    "redux": "^4.0.4"
   },
   "scripts": {
     "flow": "flow"
